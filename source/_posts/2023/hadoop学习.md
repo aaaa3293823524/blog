@@ -329,3 +329,6 @@ hive设置spark
 https://www.cnblogs.com/doublexi/p/15638331.html
 
 
+ssh-keygen -t rsa -b 4096
+
+
