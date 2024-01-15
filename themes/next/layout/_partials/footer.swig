@@ -37,7 +37,7 @@
   {% endif %}
 </div>
 
-{% if theme.footer.powered.enable %}
+<!--{% if theme.footer.powered.enable %}
   <div class="powered-by">{#
   #}{{ __('footer.powered', next_url('https://hexo.io', 'Hexo', {class: 'theme-link'})) }}{#
   #}{% if theme.footer.powered.version %} v{{ hexo_env('version') }}{% endif %}{#
@@ -54,7 +54,7 @@
   #}{% if theme.footer.theme.version %} v{{ version }}{% endif %}{#
 #}</div>
 {% endif %}
-
+-->
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#

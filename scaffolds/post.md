@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: 
+- 搭建博客
+- 前端
 ---
